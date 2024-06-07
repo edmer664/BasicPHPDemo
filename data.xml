@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Songs>
+    <Song>
+        <Name>Bohemian Rhapsody</Name>
+        <DateCreated>1975-10-31</DateCreated>
+    </Song>
+    <Song>
+        <Name>Stairway to Heaven</Name>
+        <DateCreated>1971-11-08</DateCreated>
+    </Song>
+    <Song>
+        <Name>Imagine</Name>
+        <DateCreated>1971-10-11</DateCreated>
+    </Song>
+    <Song>
+        <Name>Hotel California</Name>
+        <DateCreated>1976-12-08</DateCreated>
+    </Song>
+    <Song>
+        <Name>Hey Jude</Name>
+        <DateCreated>1968-08-26</DateCreated>
+    </Song>
+    <Song>
+        <Name>Like a Rolling Stone</Name>
+        <DateCreated>1965-07-20</DateCreated>
+    </Song>
+    <Song>
+        <Name>What's Going On</Name>
+        <DateCreated>1971-05-21</DateCreated>
+    </Song>
+    <Song>
+        <Name>Good Vibrations</Name>
+        <DateCreated>1966-10-10</DateCreated>
+    </Song>
+    <Song>
+        <Name>Smells Like Teen Spirit</Name>
+        <DateCreated>1991-09-10</DateCreated>
+    </Song>
+    <Song>
+        <Name>Billie Jean</Name>
+        <DateCreated>1982-01-02</DateCreated>
+    </Song>
+</Songs>
